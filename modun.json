@@ -1,0 +1,20 @@
+[
+    {
+        "iconUrl": "https://phim.nguonc.com/public/images/Logo/logonc.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/dah215/Movie",
+        "fileSize": 10175,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "duongah"
+        ],
+        "tvTypes": [
+            "NguonC"
+        ],
+        "version": 1,
+        "internalName": "NguonCProvider",
+        "url": "https://github.com/dah215/Movie/raw/refs/heads/main/plugin.cs3",
+        "name": "NguonCProvider"
+    }
+]

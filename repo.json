@@ -1,0 +1,8 @@
+{
+    "name": "Vietnamese",
+    "description": "Vietnames",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/dah215/Movie/refs/heads/main/modun.json"
+    ]
+}

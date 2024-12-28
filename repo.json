@@ -3,6 +3,6 @@
     "description": "Vietnames",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://codeberg.org/cloudstream/cs3xxx-repo/raw/branch/builds/plugins.json"
+      "https://raw.githubusercontent.com/dah215/Movie/refs/heads/main/modun.json"
     ]
 }

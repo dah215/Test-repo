@@ -10,11 +10,11 @@
             "duongah"
         ],
         "tvTypes": [
-            "NguonC"
+            "HOHO"
         ],
         "version": 1,
-        "internalName": "NguonCProvider",
-        "url": "https://github.com/dah215/Movie/raw/refs/heads/main/plugin.cs3",
-        "name": "NguonCProvider"
+        "internalName": "HohoProvider",
+        "url": "https://github.com/dah215/Movie/raw/refs/heads/main/Hahomoe.cs3",
+        "name": "hohoProvider"
     }
 ]

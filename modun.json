@@ -2,7 +2,7 @@
     {
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/logonc.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/dah215/Movie",
+        "repositoryUrl": "https://github.com/dah215/Test-repo",
         "fileSize": 10175,
         "status": 1,
         "language": "vi",
@@ -14,7 +14,7 @@
         ],
         "version": 1,
         "internalName": "HohoProvider",
-        "url": "https://github.com/dah215/Movie/raw/refs/heads/main/Hentaiheaven.cs3",
+        "url": "https://github.com/dah215/Test-repo/raw/refs/heads/main/AddonStream-master.cs3",
         "name": "hohoProvider"
     
     }

@@ -3,6 +3,6 @@
     "description": "Vietnames",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/stealer-smile/nguon-cs3/refs/heads/builds-2/plugins.json"
+      "https://raw.githubusercontent.com/dah215/Test-repo/refs/heads/main/modun.json"
     ]
 }

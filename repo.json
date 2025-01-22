@@ -3,6 +3,6 @@
     "description": "Vietnames",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/tuan041/bongngo-cs3-extension/refs/heads/builds/plugins.json"
+      "https://raw.githubusercontent.com/dah215/Test-repo/refs/heads/main/modun.json"
     ]
 }

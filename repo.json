@@ -3,6 +3,6 @@
     "description": "Vietnames",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/dah215/Test-repo/refs/heads/main/modun.json"
+      "1"
     ]
 }
